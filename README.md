@@ -29,4 +29,8 @@ tic-tac-toe/
 2.  Open index.html in your browser
 3.  Start playing.
 
+  🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
 
